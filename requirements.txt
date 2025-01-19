@@ -1,0 +1,6 @@
+requests
+aiogram<4.0
+pydantic-settings
+python-dotenv
+seaborn
+matplotlib
